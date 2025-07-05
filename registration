@@ -1,0 +1,16 @@
+REGISTRATION DETAILS
+ {
+    "email": "221501062@rajalakshmi.edu.in",
+    "name": "kishore v g",
+    "rollNo": "221501062",
+    "accessCode": "cWyaXW",
+    "clientID": "9adcc91e-b398-48c2-b2b5-a7e8b51333d6",
+    "clientSecret": "VmCfrfwUbQbSzUMH"
+}
+
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiIyMjE1MDEwNjJAcmFqYWxha3NobWkuZWR1LmluIiwiZXhwIjoxNzUxNjk2MzMzLCJpYXQiOjE3NTE2OTU0MzMsImlzcyI6IkFmZm9yZCBNZWRpY2FsIFRlY2hub2xvZ2llcyBQcml2YXRlIExpbWl0ZWQiLCJqdGkiOiIwYTZhZTJmNi0xOTBmLTRkNWMtODY1Ni04MDI1MDlkMmFmMDciLCJsb2NhbGUiOiJlbi1JTiIsIm5hbWUiOiJraXNob3JlIHYgZyIsInN1YiI6IjlhZGNjOTFlLWIzOTgtNDhjMi1iMmI1LWE3ZThiNTEzMzNkNiJ9LCJlbWFpbCI6IjIyMTUwMTA2MkByYWphbGFrc2htaS5lZHUuaW4iLCJuYW1lIjoia2lzaG9yZSB2IGciLCJyb2xsTm8iOiIyMjE1MDEwNjIiLCJhY2Nlc3NDb2RlIjoiY1d5YVhXIiwiY2xpZW50SUQiOiI5YWRjYzkxZS1iMzk4LTQ4YzItYjJiNS1hN2U4YjUxMzMzZDYiLCJjbGllbnRTZWNyZXQiOiJWbUNmcmZ3VWJRYlN6VU1IIn0.MdGDcCTcgVFinW3Wh5Fhsu_rtH0dyVk4HpPpzTQuEws",
+    "expires_in": 1751696333
+}
